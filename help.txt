@@ -1,0 +1,4 @@
+
+https://github.com/mebeim/aoc/tree/master/2022/solutions
+
+/home/odoo/advent/aoc/2022/solutions/day08.py
